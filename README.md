@@ -25,5 +25,5 @@ Use the provided api template to create a small backend which accepts a test ide
 * The code for retrieving the result can be stored in gui/src/views/Home.vue
 * The api can be access within the Gui via http://localhost:8080/api/get-result?identifier=foo . This behaviour is configured in vue.config.js
 
-# Bonus
+## Bonus
 If you don't feel challenged you can store the test results in a database of your choice and use the database in api.
